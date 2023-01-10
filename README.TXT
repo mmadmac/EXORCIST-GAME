@@ -1,5 +1,5 @@
 Ideas de juego.
-Sacerdote exorcista que va eliminando demonios.
+Sacerdote exorcista que va eliminando demonios para proteger a una niña de ser poseída.
 
 Mecánicas.
 1.- Destruye demonios en plan disparos?

@@ -1,6 +1,12 @@
-Idea de juego:
+Ideas de juego.
 Sacerdote exorcista que va eliminando demonios.
-A unos los destruye, a otros resuelve puzzles que los debilita.
-Puede salvar a una poseída. Quizá una niña, que al final muere y se enfrenta al demonio más grande.
-Podemos hacer objetos que van destruyendo demonios, como torres, con matrices de creación.
 
+Mecánicas.
+1.- Destruye demonios en plan disparos?
+2.- Resuelve puzzles que los debilita para poder matarlos?
+3.- Objetos que van destruyendo demonios, como torres, con matrices de creación basadas en poder "divino angelical".
+
+Argumentos.
+Puede salvar a una poseída. 
+Quizá una niña, que al final muere y se enfrenta al demonio más grande.
+Los ángeles la salvan o la matamos.

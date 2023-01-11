@@ -5,6 +5,7 @@ Mecánicas.
 1.- Destruye demonios en plan disparos?
 2.- Resuelve puzzles que los debilita para poder matarlos?
 3.- Objetos que van destruyendo demonios, como torres, con matrices de creación basadas en poder "divino angelical". Si evitan que los demonios lleguen a la niña, no la poseen. Si la poseen caca.
+4.- Podemos hacer un "conecta 3" contra los demonios, y que tú elijas un par de ángeles-poderes divinos que potencien tus ataques con ciertas combinaciones.
 
 Argumentos.
 Puede salvar a una poseída. 

@@ -15,4 +15,4 @@ Puede absorber los demonios para convertirse él en un superdemonio y luego la n
 La chica estaba puesta ahí por dios para intentar que se redimiera matándola y salvando el alma de la niña al condenar la suya por asesinato. Pero al no dejar morir a la niña, los demonios poseyeron al cura y la liaron más parda.
 
 Lenguaje.
-VB / Unity
+VB / Unity. Por determinar.
